@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Build-1') {
       steps {
-        echo "hello World"
+        echo "hello World from GITHUB"
       }
     }
   
